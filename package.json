@@ -1,0 +1,67 @@
+{
+  "name": "weptile-blog",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "@react-native-async-storage/async-storage": "^1.17.10",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^13.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/react": "^18.0.21",
+    "axios": "^1.1.2",
+    "bootstrap": "^5.2.3",
+    "classnames": "^2.3.1",
+    "core-js": "^2.5.7",
+    "dompurify": "^2.4.0",
+    "draft-convert": "^2.1.13",
+    "draft-js": "^0.11.7",
+    "draftjs-to-html": "^0.9.1",
+    "html-to-draftjs": "^1.5.0",
+    "prop-types": "^15.8.1",
+    "react": "^18.1.0",
+    "react-bootstrap": "^2.7.0",
+    "react-bootstrap-sidebar-menu": "^2.0.3",
+    "react-dom": "^18.1.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "react-spinners": "^0.13.6",
+    "react-toastify": "^9.1.1",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix",
+    "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.4.0",
+    "eslint": "^5.6.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.30.1",
+    "prettier": "^2.8.0"
+  }
+}

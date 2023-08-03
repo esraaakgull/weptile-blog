@@ -1,0 +1,124 @@
+.sideBarItem a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.sideBarItem a:hover, .sideBarItem a:hover i {
+    color: black !important;
+}
+
+.sideBarMenu {
+    position: absolute;
+    z-index: 1;
+    min-height: calc(100vh + 78px + 162px);
+    width: 250px;
+    background: linear-gradient(90deg, #8D30B6 0%, #E43572 103.51%);
+    top: 0;
+    left: -100%;
+    transition: 850ms;
+}
+
+.onlyIconSidebar{
+    width: 100px !important;
+}
+
+.onlyIconSidebar .sideBarItem{
+    padding-left: 0;
+}
+
+.onlyIconDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sideBarMenu.active {
+    left: 0;
+    transition: 350ms;
+}
+
+.sideBarIcon {
+    display: flex;
+    justify-content: center;
+}
+
+.sideBarItem {
+    padding: 8px 0 8px 16px;
+    transition: 0.2s;
+}
+
+.sideBarItem a {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.sideBarItem a div {
+    max-width: 25px;
+    min-width: 25px;
+    margin-right: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sideBarItem.active a, .sideBarItem.active i {
+    color: black;
+}
+
+.sideBarItem span {
+    padding-left: 8px;
+    margin-bottom: 0;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 720px) {
+    .sideBarMenu {
+        width: 70px;
+    }
+
+    .sideBarItem {
+        display: flex;
+        justify-content: center;
+        padding-left: 0;
+    }
+
+    .sideBarItem a div {
+        margin-right: 0;
+    }
+
+    .sideBarItem span {
+        display: none;
+    }
+}
+
+.sideBarItem:hover {
+    color: black;
+}
+
+.sideBarItem:active {
+    color: black;
+}
+
+.subItem span {
+    font-size: 15px !important;
+    padding-left: 0;
+}
+
+.subItem i {
+    font-size: 20px !important;
+}
+
+.subItemsContainer {
+    transition: max-height 1s linear;
+    margin: 0 0 0 32px;
+    max-height: 100vh;
+    overflow: hidden;
+}
+
+.subItemsContainer.closed {
+    transition: max-height 0.1s linear;
+    max-height: 0;
+}
+
