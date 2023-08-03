@@ -1,70 +1,85 @@
-# Getting Started with Create React App
+Data from API is not working for now.
+So here is the screenshots of working website.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Website
 
-## Available Scripts
+## Home Page
+![Anasayfa](https://github.com/esraaakgull/weptile-blog/assets/94448231/243cbcc5-ed71-42ff-aef4-f47206698fd0)
 
-In the project directory, you can run:
+## Categories
+![kategoriler](https://github.com/esraaakgull/weptile-blog/assets/94448231/9ef7739f-510d-43ef-9a47-c5488253b88d)
 
-### `yarn start`
+## About
+![hakkinda](https://github.com/esraaakgull/weptile-blog/assets/94448231/b370bdac-3231-4797-9d3e-6d9ef93c4b52)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Contact
+![iletisim](https://github.com/esraaakgull/weptile-blog/assets/94448231/a469c906-fa47-44d4-b4c8-0ba8a15ac403)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Login
+![giris](https://github.com/esraaakgull/weptile-blog/assets/94448231/a71e22f9-c08f-4b17-9ead-ae7fa2eebf81)
 
-### `yarn test`
+## Signup
+![kayıt_ol](https://github.com/esraaakgull/weptile-blog/assets/94448231/b3c42038-bebb-4304-a1ef-d83e99065813)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Forgot Password
+![sifremi unuttum](https://github.com/esraaakgull/weptile-blog/assets/94448231/c33bb4e7-3733-4369-9dbf-ffa83f885368)
 
-### `yarn build`
+## Header
+![header](https://github.com/esraaakgull/weptile-blog/assets/94448231/89c6dfb9-bb13-4d96-97fe-d734446477e3)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Sidebar
+![sidebar](https://github.com/esraaakgull/weptile-blog/assets/94448231/e56eab9c-386c-4539-a462-ee6bfe96a20a)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Admin Side
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Admiin Header
+![admin-header](https://github.com/esraaakgull/weptile-blog/assets/94448231/1231f717-de71-4025-9003-06ddf48b7ed4)
 
-### `yarn eject`
+## Admin SideBar
+![admin-sidebar](https://github.com/esraaakgull/weptile-blog/assets/94448231/5a575fc7-b1e5-423f-b50c-d0af48e1c0cf)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![admin-sidebar-dropdown](https://github.com/esraaakgull/weptile-blog/assets/94448231/eed947d9-91cc-4d84-8081-956494588fdc)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Dropdown
+![admin-dropwdown](https://github.com/esraaakgull/weptile-blog/assets/94448231/3715cac4-abf6-407e-8011-8e5a3f34ce1f)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Posts
+![admin-postlar](https://github.com/esraaakgull/weptile-blog/assets/94448231/153fd9c3-7e1d-4852-9fc3-d1650da7fcf8)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Categories
+![admin-kategoriler](https://github.com/esraaakgull/weptile-blog/assets/94448231/546cd183-455d-4a41-9f1b-33a036d689de)
 
-## Learn More
+## About
+![admin-hakkında](https://github.com/esraaakgull/weptile-blog/assets/94448231/c17de32a-f3bc-49f8-bd11-e987dca793ce)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Profile
+![admin-profil](https://github.com/esraaakgull/weptile-blog/assets/94448231/f306943f-5563-4a65-b4b9-7fb1ce0e65ca)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Settings
+![admin-ayarlar](https://github.com/esraaakgull/weptile-blog/assets/94448231/0402d0cb-1b12-4c34-90f8-91012f0fe4b3)
 
-### Code Splitting
+# Normal User Side
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Header
+![normal-user-header](https://github.com/esraaakgull/weptile-blog/assets/94448231/c30e1ae2-62b0-4bc9-9a59-f86ed6b5d32b)
 
-### Analyzing the Bundle Size
+## SideBar && Profile
+![normal-user-sidebar+profile](https://github.com/esraaakgull/weptile-blog/assets/94448231/a2d6b86d-227b-448a-8984-7d96004bb978)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Dropdown
+![normal-user-dropdown](https://github.com/esraaakgull/weptile-blog/assets/94448231/9f2e1a6c-d1c5-44f8-8657-105f7bbba052)
 
-### Making a Progressive Web App
+## Home Page
+![normal-user-anasayfa](https://github.com/esraaakgull/weptile-blog/assets/94448231/a442424d-ec40-447a-925d-abfddcfeda66)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `yarn build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
