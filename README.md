@@ -36,7 +36,7 @@ So here is the screenshots of working website.
 
 # Admin Side
 
-## Admiin Header
+## Admin Header
 ![admin-header](https://github.com/esraaakgull/weptile-blog/assets/94448231/1231f717-de71-4025-9003-06ddf48b7ed4)
 
 ## Admin SideBar
