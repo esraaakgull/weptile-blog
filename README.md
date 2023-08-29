@@ -1,3 +1,7 @@
+Çalışmış olduğum şirketin Blog sitesini Bootstrap ile tasarlayıp, React kullanarak, Wordpress API ile iletişim sağlayarak data çekme, ekleme, silme ve güncelleme işlemlerini yaparak geliştirmiş bulunmaktayım. User ve Admin panelleri mevcuttur.
+
+ENG Version: I made the blog site of the company I worked for. I have developed it by designing with Bootstrap, using React, communicating with the Wordpress API, pulling, adding, deleting and updating data. User and Admin panels are available.
+
 Data from API is not working for now.
 So here is the screenshots of working website.
 
